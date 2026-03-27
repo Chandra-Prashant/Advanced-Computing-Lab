@@ -1,0 +1,4 @@
+apple:A fruit that is sweet and edible
+computer:An electronic machine
+network:A system of connected devices
+algorithm:A step by step solution
